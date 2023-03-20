@@ -1,6 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=ff80bf&height=180&section=header&text=🔥Github🔥&fontSize=45&fontColor=3C3A39)
 
 
+
+
+
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=ff80bf&height=180&section=footer&text=🔥Github🔥&fontSize=45&fontColor=3C3A39))
 <!--
 **2UJ1N/2UJ1N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
