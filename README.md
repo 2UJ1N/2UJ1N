@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=ff80bf&height=180&section=header&text=🔥Github🔥&fontSize=45&fontColor=3C3A39)
 
-<center>👩🏻‍💻</center>
-
 <div align = "center">
 	<h1>👩🏻‍💻</h1>
  	<h2>📚 Tech Stack 📚</h2>
