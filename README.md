@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=ff80bf&height=180&section=header&text=Youjin%20🔥Github🔥&fontSize=45&fontColor=3C3A39)
+![header](https://capsule-render.vercel.app/api?type=wave&color=ff80bf&height=180&section=header&text=🔥Github🔥&fontSize=45&fontColor=3C3A39)
 
 
 <!--
