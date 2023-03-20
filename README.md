@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=ff80bf&height=180&section=header&text=🌈%20Hello%20🌟&fontSize=45&fontColor=fffa66)
+![header](https://capsule-render.vercel.app/api?type=wave&color=ff80bf&height=180&section=header&text=❤️‍Youjin 🔥Github🔥❤️‍🔥&fontSize=45&fontColor=fffa66)
 
 
 <!--
