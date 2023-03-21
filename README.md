@@ -77,7 +77,8 @@
 		
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=user001)](https://solved.ac/user001})
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=user001&theme=cold)
-
+	
+![다운로드 (7)](https://user-images.githubusercontent.com/83401978/226509488-dbc86b51-01ba-4267-9029-cf8d7c768565.gif)
 </div>
 
 <br>
