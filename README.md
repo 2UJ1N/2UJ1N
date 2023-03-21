@@ -88,8 +88,6 @@
 
 <br><br>
 
-<div align=center>
 ![79987e90b4629d27740b134c17e3ab2c](https://user-images.githubusercontent.com/83401978/226509244-40859df6-98ad-4dd9-8760-a615a062129e.gif)
-</div>
 	
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=ff80bf&height=180&section=footer&text=Work%20Hard!❤️‍🔥&fontSize=30&fontColor=3C3A39))
