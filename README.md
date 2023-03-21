@@ -77,19 +77,15 @@
 		
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=user001)](https://solved.ac/user001})
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=user001&theme=cold)
-	
+<br>
 ![다운로드 (7)](https://user-images.githubusercontent.com/83401978/226509488-dbc86b51-01ba-4267-9029-cf8d7c768565.gif)
 </div>
 
-<br>
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2uj1n&show_icons=true&theme=swift)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2uj1n&&layout=compact&theme=swift)
 -->
 
 <br><br>
-
-![79987e90b4629d27740b134c17e3ab2c](https://user-images.githubusercontent.com/83401978/226509244-40859df6-98ad-4dd9-8760-a615a062129e.gif)
-![다운로드 (7)](https://user-images.githubusercontent.com/83401978/226509488-dbc86b51-01ba-4267-9029-cf8d7c768565.gif)
 	
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=ff80bf&height=180&section=footer&text=Work%20Hard!❤️‍🔥&fontSize=30&fontColor=3C3A39))
