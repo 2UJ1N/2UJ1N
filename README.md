@@ -85,6 +85,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2uj1n&show_icons=true&theme=swift)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2uj1n&&layout=compact&theme=swift)
 -->
-<br><br><br><br>
+
+<br><br>
+
+
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=ff80bf&height=180&section=footer&text=Work%20Hard!❤️‍🔥&fontSize=30&fontColor=3C3A39))
