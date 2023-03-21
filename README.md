@@ -71,32 +71,20 @@
 
 <br><br>
 ---
-<br><br><br><br><br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2uj1n&show_icons=true&theme=great-gatsby)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2uj1n&&layout=compact&theme=great-gatsby)
-
-<br><br><br><br>
+<br><br>
 
 <div align=center>
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=user001)](https://solved.ac/user001}) ![mazandi profile](http://mazandi.herokuapp.com/api?handle=user001&theme=cold)
+		
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=user001)](https://solved.ac/user001})
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=user001&theme=cold)
 
 </div>
 
-
+<br>
+<!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2uj1n&show_icons=true&theme=swift)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2uj1n&&layout=compact&theme=swift)
+-->
+<br><br><br><br>
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=ff80bf&height=180&section=footer&text=Work%20Hard!❤️‍🔥&fontSize=30&fontColor=3C3A39))
-<!--
-**2UJ1N/2UJ1N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
