@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:ff80bf,100:ff1493&height=180&section=header&text=🔥Github🔥&fontSize=50&fontColor=3C3A39)
-
 <div align=center>
 	<h1>👩🏻‍💻</h1>
 </div>
@@ -81,5 +79,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2uj1n&show_icons=true&theme=swift)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2uj1n&&layout=compact&theme=swift)
 -->
-
-![footer](https://capsule-render.vercel.app/api?type=wave&color=0:ff80bf,100:ff1493&height=180&section=footer&text=Work%20Hard!❤️‍🔥&fontSize=30&fontColor=3C3A39))
