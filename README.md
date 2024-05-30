@@ -1,81 +1,44 @@
 <div align=center>
 	<h1>👩🏻‍💻</h1>
+	<h3>Hey there👋, I'm Youjin!</h3>
 </div>
 
-
-<div align=center>
-	<h3>📚 Tech Stack 📚</h3>
-	<br>
-	<p><b>✨ Languages ✨</b></p>
-</div>
-
-<div align="center">
-	<p><i>✏️now</i></p>
-	<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-	<br>
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
-	<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-	<br>
-	<br>
-	<p><i>used💦</i></p>
-	<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Conda-Forge&logoColor=white" />
-	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>	
-	<br>	
-	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" />
-	<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white" />
-	<br>
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
-	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" />
+<div>
+	<h2>👋 About Me</h2>
+	<p>
+	  <ul>
+		  <li><p>📚 <strong>Majoring</strong>&nbsp;in <strong>Information and Communication Engineering</strong> and <strong>Multimedia Engineering</strong>&nbsp;at Dongguk Univ</li>
+		  <li><p display="flex" align-items="flex-start">🚀 10th Cadet at &nbsp;<strong><img src="https://img.shields.io/badge/42seoul-333333?style=flat&logo=42&logoColor=white"/></strong></p></li>
+	  </ul>
+	</p>
 </div>
 <br>
-<div align=center>
-	<p><b>🛠 Tools 🛠</b></p>
-</div>
-<div align=center>
-	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
-	<img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/>
-	<br>
-	<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/>
-	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
-	<br>
-	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+<div>
+	<h2>📚 Stacks</h2>
+	<p>
+		<a href="https://skillicons.dev">
+			<h3>Environment</h3>
+			<img src="https://skillicons.dev/icons?i=vscode,unity,git,github,gitlab,vim,linux" />
+	  		<h3>Development</h3>
+			<img src="https://skillicons.dev/icons?i=js,html,css,react,jquery,nodejs,spring,java,py,c,mysql,postgres&perline=4" />
+	    		<h3>Communication</h3>
+	      		<img src="https://skillicons.dev/icons?i=notion,discord,slack" />
+		</a>
+	</p>
 </div>
 <br>
-<div align=center>
-	<p><b>🎀 SNS & Portfolio 🎀</b></p>
-</div>
-<div align=center>
-	<a href="okzlv2@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
-	</a>
-	<br>
-	<a href="https://github.com/2UJ1N">
-		<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-	</a>
-	<a href="https://helloworld-fromuser.tistory.com/">
-		<img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white" />
-	</a>
-	<br>
-</div>
+<div>
+	<h2>✨ Stats</h2>
+	<p>
+		<a href="https://github.com/2UJ1N">
+			<img src="https://github-readme-stats.vercel.app/api?username=2UJ1N&show_icons=true&hide_border=true&hide=contribs,prs&cache_seconds=86400&theme=graywhite&&count_private=true&include_all_commits=true" height="150px"/>
+			<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2UJ1N&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&theme=graywhite&langs_count=8"/>
+		</a>
+		<a href="https://solved.ac/user001">
+			<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=user001" height="150px"/>
+<!-- 			<img src="http://mazandi.herokuapp.com/api?handle=user001&theme=cold" height="150px"/> -->
+		</a>
+<!-- 		<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=2UJ1N&hide_border=true" /> -->
+	</p>
 
-<br><br>
----
-<br><br>
-
-<div align=center>
-		
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=user001)](https://solved.ac/user001})
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=user001&theme=cold)
-	
-<br><br><br>
-	
-![다운로드 (7)](https://user-images.githubusercontent.com/83401978/226509488-dbc86b51-01ba-4267-9029-cf8d7c768565.gif)
 </div>
-
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2uj1n&show_icons=true&theme=swift)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2uj1n&&layout=compact&theme=swift)
--->
