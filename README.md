@@ -1,6 +1,6 @@
 <div align=center>
 	<h1>👩🏻‍💻</h1>
-	<h3>Hey there👋, I'm Youjin!</h3>
+	<h3>Hello, World👋, I'm Youjin!</h3>
 </div>
 
 <div>
