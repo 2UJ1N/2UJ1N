@@ -38,6 +38,9 @@
 			<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=user001" height="150px"/>
 <!-- 			<img src="http://mazandi.herokuapp.com/api?handle=user001&theme=cold" height="150px"/> -->
 		</a>
+		<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/2UJ1N?pet-id=1" width="1000" height="120"/>
+</a>
 <!-- 		<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=2UJ1N&hide_border=true" /> -->
 	</p>
 
